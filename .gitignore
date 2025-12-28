@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Snowpack dependency directory (https://snowpack.dev/)
+web_modules/
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+.parcel-cache/
+
+.DS_Store
+.idea
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env files
+.env
+.env.*.local
+
+# Editors
+.vscode/
+
+# Coverage
+coverage/
